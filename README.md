@@ -1,4 +1,4 @@
-# Introduction
+## Introduction
 
 This project focuses on Emotion Analysis using BERT (Bidirectional Encoder Representations from Transformers). The goal is to classify emotions in text data accurately by leveraging BERT's advanced capabilities in understanding context and semantics.
 
