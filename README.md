@@ -11,7 +11,6 @@ Ensure you have the following installed:
 - Transformers (Hugging Face)
 - Pandas
 - Scikit-learn
-- Jupyter Notebook
 
 ## Data
 Raw Data: Place your raw data files in the Dataset/ directory.
