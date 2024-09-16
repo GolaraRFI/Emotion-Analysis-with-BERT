@@ -12,12 +12,6 @@ Ensure you have the following installed:
 - Pandas
 - Scikit-learn
 
-## Data
-Raw Data: Place your raw data files in the Dataset/ directory.
-
-Preprocessing: Preprocess the data using the notebook data_preprocessing.ipynb. This will generate processed data saved in the Dataset/ directory. 
-
-
 ## Model Training
 Train the BERT model by running the notebook EmotionAnalysis_BERT.ipynb. The trained model will be saved in the emotion-analysis-bert/ directory.
 
